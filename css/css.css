@@ -24,7 +24,7 @@ article {
   transform: translate(-50%, 20%);
 }
 footer {
-  background-color: red;
+  background-color: #ffb555;
   padding: 10px;
   position: absolute;
   bottom: 0;
